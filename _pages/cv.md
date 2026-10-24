@@ -12,7 +12,7 @@ redirect_from:
 <details>
 <summary><strong>University of Oxford</strong> (Oxford, United Kingdom). Oct 2024 – Jun 2028 (exp.)<br>Department of Engineering Science / Machine Learning Research Group</summary>
 <ul>
-<li>Doctor of Philosophy in Engineering / Quantitative Finance and Machine Learning, Supervisors: Stefan Zohren and Jakob Foerster</li>
+<li>Doctor of Philosophy in Engineering / Quantitative Finance and Machine Learning, Supervisor: Professor Stefan Zohren</li>
 <li>Scholarship: ESRC Grand Union Doctoral Training Partnership (DTP) Data Skills Studentship</li>
 <li>Thesis: "Generative AI for Financial Data: From Price-Impact Consistency to Reinforcement Learning Driven Trading"</li>
 </ul>
@@ -24,13 +24,6 @@ redirect_from:
 <li>Master's degree in applied mathematics and physics / GPA 4.8 out of 5.0 for 2 years, top 5% of the class</li>
 <li>Scholarship: Government academic scholarship for only A-mark students</li>
 <li>Graduation project: "Anomaly Detection-Aided Active Learning on smartwatches data"</li>
-</ul>
-</details>
-
-<details>
-<summary><strong>Moscow State University</strong> (Moscow, Russia)<br>Sep 2022 – Jan 2023</summary>
-<ul>
-<li>Professional qualification: Financial Quantitative Analyst</li>
 </ul>
 </details>
 
@@ -48,10 +41,9 @@ redirect_from:
 <details>
 <summary><strong>Machine Learning Research Group</strong> (Oxford, United Kingdom)<br>Sep 2024 – Present</summary>
 <ul>
-<li>Research Engineer / Quantitative Finance Stream; member of BOLD, the British Open-ended Learning and Discovery lab</li>
-<li>Built the LOB-Impact Benchmark, which tests whether generative limit order book models reproduce market impact: first-author paper at ICAIF 2026 (oral), open-source code</li>
-<li>Study what state-space foundation models of the order book learn about the market (ICAIF 2026) and how generative models of order flow scale with data and compute</li>
-<li>Co-developed JaxMARL-HFT, a GPU-accelerated multi-agent reinforcement learning environment for high-frequency trading with up to 240x faster training (ICAIF 2025, Honourable Mention); experiments on the Isambard-AI supercomputer</li>
+<li>Research Engineer / Quantitative Finance Stream</li>
+<li>Developing Machine Learning framework to analyze the Price Impact of Market Orders, Limit Orders and Cancellations. Utilizing autoregressive modeling to account for history-dependent effects, improving forecast accuracy and trade execution efficiency for small tick stocks by capturing internal order book fluctuations</li>
+<li>Creating a Generative AI model for sequence prediction in NASDAQ limit order books, leveraging a deep state space model and custom tokenizer to simulate realistic order flows. Increasing mid-price return forecast accuracy and a correlation with realized returns, enhancing potential for reinforcement learning in high-frequency trading applications</li>
 </ul>
 </details>
 
@@ -83,16 +75,6 @@ redirect_from:
 </ul>
 </details>
 
-## PDF
-
-[Download the CV (PDF)](/files/George_Nigmatulin_CV.pdf)
-
-## SKILLS
-
-Python, JAX, PyTorch, C++ · English (C1), Russian (native)
-
-<!-- Previous skills, toolkit and PDF sections (until Oct 2026):
-
 ## Professional skills
 
 Languages: English - Advanced C1, Russian – Native <br>
@@ -109,7 +91,4 @@ Optimal control, System analysis, Quantitative Finance, Strategies, Predictive M
 <br>
 
 ## Pdf version of Curriculum Vitae
-*Note: this PDF is outdated (last updated in 2023). An up-to-date version will be uploaded soon.*
-
-[https://drive.google.com/file/d/16Fcq8b-fn2SDC3vSC8bn-utplYZdkIih/view?usp=share_link](https://drive.google.com/file/d/16Fcq8b-fn2SDC3vSC8bn-utplYZdkIih/view?usp=share_link)
--->
+[https://george-nigmatulin.github.io/files/George_Nigmatulin_CV.pdf](https://george-nigmatulin.github.io/files/George_Nigmatulin_CV.pdf)

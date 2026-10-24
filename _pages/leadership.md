@@ -5,9 +5,9 @@ permalink: leadership/
 author_profile: true
 ---
 
-* BOLD Launch Festival, Rhodes House, Oxford, 4 August 2026: co-chair of the workshop "Collective Intelligence (incl. Prediction Markets) and the Optimal Co-Scientist", with Yuhe Gao. The festival launched [BOLD](https://bold-lab.ai), the British Open-ended Learning and Discovery lab, a new UK AI research lab led from Oxford with UCL and Imperial College London; more than 350 researchers, innovators and policymakers took part.
-
 * BOLD Launch Festival, Rhodes House, Oxford, 4 August 2026: co-organiser of the workshop "Foundation Models and Open-Source in Finance" and moderator of its panel with Iain Dunning (Head of AI, Hudson River Trading), Stefan Zohren (University of Oxford) and Kang Li (BOLD).
+
+* BOLD Launch Festival, Rhodes House, Oxford, 4 August 2026: co-chair of the workshop "Collective Intelligence (incl. Prediction Markets) and the Optimal Co-Scientist", with Yuhe Gao. The festival launched [BOLD](https://bold-lab.ai), the British Open-ended Learning and Discovery lab, a new UK AI research lab led from Oxford with UCL and Imperial College London; more than 350 researchers, innovators and policymakers took part.
 
 * ICAIF 2025, Singapore, November 2025: helped organise the [Workshop on Rethinking Financial Time-Series](https://icaif25.org/workshops), led by Yoontae Hwang.
 
