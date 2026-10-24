@@ -5,43 +5,35 @@ permalink: publications/
 author_profile: true
 ---
 
-## 2026
+* "LOB-Impact Benchmark: Emergent Market Impact in Generative Limit Order Book Models." 7th ACM International Conference on AI in Finance (ICAIF 2026), Milan, oral presentation. G Nigmatulin, V Mohl, S Frey, K Li, A Marti-Shahandeh, M Cucuringu, A Calinescu, J Foerster, S Zohren. [[Paper]](https://arxiv.org/abs/2610.27100) [[Code]](https://github.com/george-nigmatulin/lob_impact)
 
-* **LOB-Impact Benchmark: Emergent Market Impact in Generative Limit Order Book Models.** 7th ACM International Conference on AI in Finance (ICAIF 2026), Milan. **Oral.** [[Paper]](https://arxiv.org/abs/2610.27100) [[Code]](https://github.com/george-nigmatulin/lob_impact)
+* "Understanding the Inner Workings of a State-Space Foundation Model for Limit Order Books." 7th ACM International Conference on AI in Finance (ICAIF 2026), Milan. V Mohl\*, A Bismuth\*, A Marti-Shahandeh, G Nigmatulin, K Li, S Zohren, J Foerster, M Cucuringu, A Calinescu (\*equal contribution). [[Paper]](https://arxiv.org/abs/2610.28753)
 
-* **Understanding the Inner Workings of a State-Space Foundation Model for Limit Order Books.** 7th ACM International Conference on AI in Finance (ICAIF 2026), Milan. [[Paper]](https://arxiv.org/abs/2610.28753)
+* "JaxMARL-HFT: GPU-Accelerated Large-Scale Multi-Agent Reinforcement Learning for High-Frequency Trading." 6th ACM International Conference on AI in Finance (ICAIF 2025), pp. 18-26, Honourable Mention. V Mohl, S Frey, R Leyland, K Li, G Nigmatulin, M Cucuringu, S Zohren, J Foerster, A Calinescu. [[Paper]](https://arxiv.org/abs/2511.02136) [[Code]](https://github.com/vmohl/JaxMARL-HFT)
 
-## 2025
+* "Anomaly Detection-Aided Active Learning." IEEE Global Communications Conference (GLOBECOM 2023), pp. 1616-1619. G Nigmatulin, K Pavlov, A Zaytsev. [[Paper]](https://doi.org/10.1109/GLOBECOM54140.2023.10437856)
 
-* **JaxMARL-HFT: GPU-Accelerated Large-Scale Multi-Agent Reinforcement Learning for High-Frequency Trading.** 6th ACM International Conference on AI in Finance (ICAIF 2025), pp. 18-26. **Honourable Mention.** [[Paper]](https://arxiv.org/abs/2511.02136) [[Code]](https://github.com/vmohl/JaxMARL-HFT)
+* "Sweat Loss Estimation Algorithm for Smartwatches." IEEE Access, vol. 11, pp. 23926-23934, 2023. K Pavlov, A Perchik, V Tsepulin, G Megre, E Nikolaev, E Volkova, G Nigmatulin, HJ Lee, WS Lee, YH Kim. [[Paper]](https://doi.org/10.1109/ACCESS.2023.3253384)
 
-## 2023
+* "Research of an Optimization Model for Servicing a Network of ATMs and Information Payment Terminals." Communications in Computer and Information Science, Springer, 2021. G Nigmatulin, O Chaganova. [[Paper]](https://arxiv.org/abs/2210.09927)
 
-* **Anomaly Detection-Aided Active Learning.** IEEE Global Communications Conference (GLOBECOM 2023), pp. 1616-1619. [[Paper]](https://doi.org/10.1109/GLOBECOM54140.2023.10437856)
+* "Intersection of Triangles in Space Based on Cutting Off Segment." Communications in Computer and Information Science, Springer, 2020. I Bolodurina, G Nigmatulin, D Parfenov. [[Paper]](https://arxiv.org/abs/2210.15472)
 
-* **Sweat Loss Estimation Algorithm for Smartwatches.** IEEE Access, vol. 11, pp. 23926-23934, 2023. [[Paper]](https://doi.org/10.1109/ACCESS.2023.3253384)
+* "Predicting Study Time in an Online Course System Based on Machine Learning Methods." Book of Abstracts of the School-Conference "Invitation to Dynamical Systems", Higher School of Economics, 2019. G Nigmatulin. [[Abstract]](https://cupdf.com/document/book-of-abstracts-higher-school-of-economics-according-to-3-4-for-any-gradient-like.html?page=1)
 
-## Earlier
+* "Comparative Analysis of the Methods of Training Recurrent Neural Networks" (in Russian). Step into Science, no. 2, pp. 50-52, 2019. G Nigmatulin, I Bolodurina. [[Paper]](https://www.elibrary.ru/item.asp?id=41105398)
 
-* **Research of an Optimization Model for Servicing a Network of ATMs and Information Payment Terminals.** Communications in Computer and Information Science, Springer, 2021. [[Paper]](https://arxiv.org/abs/2210.09927)
+* "Solving the Problem of Categorical Regression Using Neural Networks and Gradient Boosting to Predict the Academic Performance at MOOCs" (in Russian). University Complex as a Regional Center of Education, Science and Culture, pp. 1529-1533, 2019. G Nigmatulin, D Parfenov, I Bolodurina, V Zaporozhko. [[Paper]](https://elibrary.ru/item.asp?id=42532268)
 
-* **Intersection of Triangles in Space Based on Cutting Off Segment.** Communications in Computer and Information Science, Springer, 2020. [[Paper]](https://arxiv.org/abs/2210.15472)
+* "Prototype of the Module for the Intelligent Formation of an Individual Educational Trajectory of a Student for a Digital Platform" (in Russian), 2019. D Parfenov, G Nigmatulin, V Zaporozhko, L Zabrodina. [[Paper]](https://www.elibrary.ru/item.asp?id=42587112)
 
-* **Predicting Study Time in an Online Course System Based on Machine Learning Methods.** Book of Abstracts of the School-Conference "Invitation to Dynamical Systems", Higher School of Economics, 2019. [[Abstract]](https://cupdf.com/document/book-of-abstracts-higher-school-of-economics-according-to-3-4-for-any-gradient-like.html?page=1)
+* "Analysis of the Company's Activities Based on Chaos Theory" (in Russian). Step into Science, no. 3, pp. 35-38, 2018. N Shchepacheva, G Nigmatulin. [[Paper]](https://www.elibrary.ru/item.asp?id=38564592)
 
-* **Comparative Analysis of the Methods of Training Recurrent Neural Networks** (in Russian). Step into Science, no. 2, pp. 50-52, 2019. [[Paper]](https://www.elibrary.ru/item.asp?id=41105398)
+* "Electronic Device and Method for Determining a Body Core Temperature." US Patent Application US20250352075A1, Samsung Electronics, 2025. E Volkova, K Pavlov, K Beliaev, A Perchik, V Lychagov, E Nikolaev, A Ayuev, G Nigmatulin, W Lee, H Lee, Y Kim. [[Patent]](https://patents.google.com/patent/US20250352075A1/en)
 
-* **Solving the Problem of Categorical Regression Using Neural Networks and Gradient Boosting to Predict the Academic Performance at MOOCs** (in Russian). University Complex as a Regional Center of Education, Science and Culture, pp. 1529-1533, 2019. [[Paper]](https://elibrary.ru/item.asp?id=42532268)
+The full list is on [Google Scholar](https://scholar.google.com/citations?user=jGPYeWIAAAAJ).
 
-* **Prototype of the Module for the Intelligent Formation of an Individual Educational Trajectory of a Student for a Digital Platform** (in Russian), 2019. [[Paper]](https://www.elibrary.ru/item.asp?id=42587112)
-
-* **Analysis of the Company's Activities Based on Chaos Theory** (in Russian). Step into Science, no. 3, pp. 35-38, 2018. [[Paper]](https://www.elibrary.ru/item.asp?id=38564592)
-
-## Patent
-
-* **Electronic Device and Method for Determining a Body Core Temperature.** US Patent Application US20250352075A1, Samsung Electronics, 2025. [[Patent]](https://patents.google.com/patent/US20250352075A1/en)
-
-<!-- Not listed until published: "Neural Scaling Laws for Order Flow Generation." Submitted to NeurIPS 2026. -->
+<!-- Not listed for now: "Neural Scaling Laws for Order Flow Generation." Under submission. -->
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

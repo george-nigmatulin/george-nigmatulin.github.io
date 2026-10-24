@@ -10,7 +10,7 @@ redirect_from:
 ## EDUCATION
 
 <details>
-<summary><strong>University of Oxford</strong> (Oxford, United Kingdom). Oct 2024 – Dec 2027 (exp.)<br>Department of Engineering Science / Machine Learning Research Group</summary>
+<summary><strong>University of Oxford</strong> (Oxford, United Kingdom). Oct 2024 – Jun 2028 (exp.)<br>Department of Engineering Science / Machine Learning Research Group</summary>
 <ul>
 <li>Doctor of Philosophy in Engineering / Quantitative Finance and Machine Learning, Supervisors: Stefan Zohren and Jakob Foerster</li>
 <li>Scholarship: ESRC Grand Union Doctoral Training Partnership (DTP) Data Skills Studentship</li>
@@ -56,7 +56,7 @@ redirect_from:
 </details>
 
 <details>
-<summary><strong>Samsung R&D Institute</strong> (Remote, South Korea)<br>Jul 2021 – Jun 2024</summary>
+<summary><strong>Samsung R&D Institute</strong> (Remote, South Korea)<br>Jul 2021 – Sep 2024</summary>
 <ul>
 <li>Machine Learning Engineer / Sensor Solution Team</li>
 <li>Developed Sweat loss estimation algorithm. Accelerometer-based Neural Network estimates running distance (MAPE =7.7%, R2=0.95) and Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.79)</li>
