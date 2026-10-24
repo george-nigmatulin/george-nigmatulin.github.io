@@ -11,9 +11,9 @@ Teaching
 
 * Jun 2026. Volatility Forecasting with Economic Networks (tutorial, with Yaxuan Kong), The Oxford Summer School in Economic Networks, Oxford. [[Materials]](https://github.com/george-nigmatulin/economic-networks-summer-school)
 
-* Jan 2026. Deep Learning for Time Series Forecasting (lab session), Intelligent Earth CDT, University of Oxford. [[Materials]](https://github.com/george-nigmatulin/Deep-Learning-for-Time-Series-Forecasting)
+* Jan 2026. Deep Learning for Time Series Forecasting, Intelligent Earth CDT, University of Oxford. [[Materials]](https://github.com/george-nigmatulin/Deep-Learning-for-Time-Series-Forecasting)
 
-* Jan 2025. Deep Learning for Time Series Forecasting (lab session), Intelligent Earth CDT, University of Oxford. [[Materials]](https://github.com/george-nigmatulin/Deep-Learning-for-Time-Series-Forecasting)
+* Jan 2025. Deep Learning for Time Series Forecasting, Intelligent Earth CDT, University of Oxford. [[Materials]](https://github.com/george-nigmatulin/Deep-Learning-for-Time-Series-Forecasting)
 
 Leadership
 
