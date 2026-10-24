@@ -9,19 +9,21 @@ redirect_from:
 
 Teaching
 
-* Deep Learning for Time Series Forecasting. Lab session in the Time Series Analysis and Signal Processing course of the [Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk) (UKRI AI Centre for Doctoral Training in AI for the Environment), University of Oxford. January 2025 and January 2026. Probabilistic forecasting with deep autoregressive models, with hands-on PyTorch implementations of DeepAR and ConvTrans. [[Materials]](https://github.com/george-nigmatulin/Deep-Learning-for-Time-Series-Forecasting)
+* Jun 2026. Volatility Forecasting with Economic Networks (tutorial, with Yaxuan Kong), The Oxford Summer School in Economic Networks, Oxford. [[Materials]](https://github.com/george-nigmatulin/economic-networks-summer-school)
 
-* Volatility Forecasting with Economic Networks. Tutorial with Yaxuan Kong at [The Oxford Summer School in Economic Networks](https://www.maths.ox.ac.uk/events/summer-schools/economic-networks) (Institute for New Economic Thinking at the Oxford Martin School and the Mathematical Institute). 25 June 2026. Correlation networks from daily futures on equity indices, currencies, rates and commodities, then a graph convolutional network to forecast volatility. [[Materials]](https://github.com/george-nigmatulin/economic-networks-summer-school)
+* Jan 2026. Deep Learning for Time Series Forecasting (lab session), Intelligent Earth CDT, University of Oxford. [[Materials]](https://github.com/george-nigmatulin/Deep-Learning-for-Time-Series-Forecasting)
+
+* Jan 2025. Deep Learning for Time Series Forecasting (lab session), Intelligent Earth CDT, University of Oxford. [[Materials]](https://github.com/george-nigmatulin/Deep-Learning-for-Time-Series-Forecasting)
 
 Leadership
 
-* BOLD Launch Festival, Rhodes House, Oxford, 4 August 2026: co-organiser of the workshop "Foundation Models and Open-Source in Finance" and moderator of its panel with Iain Dunning (Head of AI, Hudson River Trading), Stefan Zohren (University of Oxford) and Kang Li (BOLD).
+* Aug 2026. Foundation Models and Open-Source in Finance (workshop co-organiser and moderator of its panel with Iain Dunning, Head of AI at Hudson River Trading, Stefan Zohren and Kang Li), BOLD Launch Festival, Rhodes House, Oxford.
 
-* BOLD Launch Festival, Rhodes House, Oxford, 4 August 2026: co-chair of the workshop "Collective Intelligence (incl. Prediction Markets) and the Optimal Co-Scientist", with Yuhe Gao. The festival launched [BOLD](https://bold-lab.ai), the British Open-ended Learning and Discovery lab, a new UK AI research lab led from Oxford with UCL and Imperial College London; more than 350 researchers, innovators and policymakers took part.
+* Aug 2026. Collective Intelligence (incl. Prediction Markets) and the Optimal Co-Scientist (workshop co-chair, with Yuhe Gao), BOLD Launch Festival, Rhodes House, Oxford.
 
-* ICAIF 2025, Singapore, November 2025: helped organise the [Workshop on Rethinking Financial Time-Series](https://icaif25.org/workshops), led by Yoontae Hwang.
+* Nov 2025. Workshop on Rethinking Financial Time-Series (helped organise), ICAIF 2025, Singapore. [[Workshop]](https://icaif25.org/workshops)
 
-* Head of the Student Council, Orenburg State University (2018–2020).
+* 2018–2020. Head of the Student Council, Orenburg State University.
 
 <!-- Previous Leadership page (until Oct 2026):
 
