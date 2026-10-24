@@ -10,7 +10,7 @@ redirect_from:
 ## EDUCATION
 
 <details>
-<summary><strong>University of Oxford</strong> (Oxford, United Kingdom). Oct 2024 – Jun 2028 (exp.)<br>Department of Engineering Science / Machine Learning Research Group</summary>
+<summary><strong>University of Oxford</strong> (Oxford, United Kingdom). Oct 2024 – Jun 2028 (exp.)<br>Department of Engineering Science / Machine Learning Research Group / BOLD (British Open-ended Learning and Discovery Lab)</summary>
 <ul>
 <li>Doctor of Philosophy in Engineering / Quantitative Finance and Machine Learning, Supervisor: Professor Stefan Zohren</li>
 <li>Scholarship: ESRC Grand Union Doctoral Training Partnership (DTP) Data Skills Studentship</li>
