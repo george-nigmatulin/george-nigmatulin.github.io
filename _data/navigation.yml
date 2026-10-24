@@ -3,10 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Leadership"
+  - title: "Teaching & Leadership"
     url: /leadership/
 
   - title: "Curriculum Vitae"

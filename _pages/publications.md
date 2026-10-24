@@ -17,9 +17,9 @@ author_profile: true
 
 2023
 
-* "Anomaly Detection-Aided Active Learning." IEEE Global Communications Conference (GLOBECOM 2023), pp. 1616-1619. G Nigmatulin, K Pavlov, A Zaytsev. [[Paper]](https://doi.org/10.1109/GLOBECOM54140.2023.10437856)
-
 * "Sweat Loss Estimation Algorithm for Smartwatches." IEEE Access, vol. 11, pp. 23926-23934, 2023. K Pavlov, A Perchik, V Tsepulin, G Megre, E Nikolaev, E Volkova, G Nigmatulin, HJ Lee, WS Lee, YH Kim. [[Paper]](https://doi.org/10.1109/ACCESS.2023.3253384)
+
+* "Anomaly Detection-Aided Active Learning." IEEE Global Communications Conference (GLOBECOM 2023), pp. 1616-1619. G Nigmatulin, K Pavlov, A Zaytsev. [[Paper]](https://doi.org/10.1109/GLOBECOM54140.2023.10437856)
 
 Earlier
 
