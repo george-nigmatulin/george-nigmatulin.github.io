@@ -83,6 +83,10 @@ redirect_from:
 </ul>
 </details>
 
+## PDF
+
+[Download the CV (PDF)](/files/George_Nigmatulin_CV.pdf)
+
 ## SKILLS
 
 Python, JAX, PyTorch, C++ · English (C1), Russian (native)

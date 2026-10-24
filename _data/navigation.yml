@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: publications/
+    url: /publications/
 
   - title: "Teaching"
-    url: teaching/
+    url: /teaching/
 
   - title: "Leadership"
-    url: leadership/
+    url: /leadership/
 
   - title: "Curriculum Vitae"
-    url: cv/
+    url: /cv/

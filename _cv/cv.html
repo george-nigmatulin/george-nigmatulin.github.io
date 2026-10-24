@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>George Nigmatulin — CV</title>
+<style>
+@page { size: A4; margin: 15mm 16mm 14mm; }
+:root { --ink: #111A22; --head: #051C2C; --muted: #4A5B6B; --rule: #C9D1DA; --link: #1F3FBF; }
+* { box-sizing: border-box; }
+body { margin: 0; color: var(--ink); font: 9.8pt/1.38 "P052", "Palatino", "Palatino Linotype", Georgia, serif; }
+a { color: var(--link); text-decoration: none; }
+h1 { font-size: 21pt; font-weight: 700; color: var(--head); margin: 0 0 2pt; letter-spacing: -0.2pt; }
+.sub { font-size: 11pt; margin: 0 0 3pt; }
+.contact { font-size: 9pt; color: var(--muted); margin: 0; }
+.contact a { color: var(--muted); }
+h2 { font-size: 11.5pt; font-weight: 700; color: var(--head); margin: 13pt 0 5pt; padding-bottom: 2pt; border-bottom: 0.6pt solid var(--rule); break-after: avoid; }
+.item { margin: 0 0 6pt; break-inside: avoid; }
+.row { display: flex; justify-content: space-between; gap: 12pt; }
+.row .date { color: var(--muted); white-space: nowrap; font-size: 9.3pt; }
+.role { font-style: italic; }
+ul { margin: 2pt 0 0; padding-left: 13pt; }
+li { margin: 0 0 1.5pt; }
+.pubs { list-style: none; padding: 0; margin: 0; }
+.pubs li { margin: 0 0 4.5pt; padding-left: 12pt; text-indent: -12pt; font-size: 9.4pt; break-inside: avoid; }
+.tag { font-weight: 700; }
+.note { color: var(--muted); }
+.p { margin: 0; }
+</style>
+</head>
+<body>
+
+<h1>George Nigmatulin</h1>
+<p class="sub">PhD Researcher in Machine Learning and Quantitative Finance, University of Oxford</p>
+<p class="contact"><a href="mailto:george.nigmatulin@gmail.com">george.nigmatulin@gmail.com</a> &middot; <a href="https://george-nigmatulin.github.io">george-nigmatulin.github.io</a> &middot; <a href="https://scholar.google.com/citations?user=jGPYeWIAAAAJ">Google Scholar</a> &middot; <a href="https://github.com/george-nigmatulin">github.com/george-nigmatulin</a> &middot; <a href="https://www.linkedin.com/in/george-nigmatulin/">linkedin.com/in/george-nigmatulin</a></p>
+
+<h2>Education</h2>
+<div class="item">
+  <div class="row"><span><b>University of Oxford</b>, DPhil in Engineering Science</span><span class="date">Oct 2024 &ndash; Dec 2027 (exp.)</span></div>
+  <p class="p">Machine Learning Research Group, Department of Engineering Science. Supervisors: Stefan Zohren and Jakob Foerster.<br>
+  Thesis: &ldquo;Generative AI for Financial Data: From Price-Impact Consistency to Reinforcement Learning Driven Trading&rdquo;.<br>
+  ESRC Grand Union Doctoral Training Partnership (DTP) Data Skills Studentship.</p>
+</div>
+<div class="item">
+  <div class="row"><span><b>Moscow State University</b>, professional qualification: Financial Quantitative Analyst</span><span class="date">Sep 2022 &ndash; Jan 2023</span></div>
+</div>
+<div class="item">
+  <div class="row"><span><b>Moscow Institute of Physics and Technology</b>, MSc in Applied Mathematics and Physics</span><span class="date">Sep 2020 &ndash; Jun 2022</span></div>
+  <p class="p">GPA 4.8/5.0, top 5% of the class. Thesis: &ldquo;Anomaly Detection-Aided Active Learning on Smartwatch Data&rdquo;.</p>
+</div>
+<div class="item">
+  <div class="row"><span><b>Orenburg State University</b>, BSc in Applied Mathematics and Computer Science</span><span class="date">Sep 2016 &ndash; Jun 2020</span></div>
+  <p class="p">GPA 5.0/5.0, top 1% of the class. Thesis: &ldquo;Machine Learning Models for Predicting and Optimizing ATM Service&rdquo;.</p>
+</div>
+
+<h2>Experience</h2>
+<div class="item">
+  <div class="row"><span><b>University of Oxford</b>, Machine Learning Research Group &middot; <span class="role">Research Engineer</span></span><span class="date">Sep 2024 &ndash; present</span></div>
+  <ul>
+    <li>Built the LOB-Impact Benchmark, which tests whether generative limit order book models reproduce market impact: first-author paper at ICAIF 2026 (oral), open-source code.</li>
+    <li>Study what state-space foundation models of the order book learn about the market (ICAIF 2026) and how generative models of order flow scale with data and compute.</li>
+    <li>Co-developed JaxMARL-HFT, a GPU-accelerated multi-agent reinforcement learning environment for high-frequency trading with up to 240&times; faster training (ICAIF 2025, Honourable Mention).</li>
+    <li>Member of BOLD, the British Open-ended Learning and Discovery lab; experiments on the Isambard-AI supercomputer.</li>
+  </ul>
+</div>
+<div class="item">
+  <div class="row"><span><b>Samsung R&amp;D Institute</b> &middot; <span class="role">Machine Learning Engineer, Sensor Solution Team</span></span><span class="date">Jul 2021 &ndash; Jun 2024</span></div>
+  <ul>
+    <li>Sweat loss estimation for smartwatches: accelerometer-based neural network for running distance (MAPE 7.7%, R&sup2; 0.95) and kernel ridge regression for fluid loss (R&sup2; 0.79). Published in IEEE Access.</li>
+    <li>Regression models for body composition (body fat mass, skeletal muscle mass, intracellular and extracellular water) from a multi-frequency signal, released in Galaxy Watch 4.</li>
+    <li>Body temperature algorithm: SVM heat detection on perfusion signals (accuracy 0.91, F1 0.87) and ridge regression for core temperature (R&sup2; 0.77). US patent application.</li>
+  </ul>
+</div>
+<div class="item">
+  <div class="row"><span><b>Skolkovo Institute of Science and Technology</b> &middot; <span class="role">Machine Learning Researcher</span></span><span class="date">Aug 2020 &ndash; Jul 2022</span></div>
+  <ul>
+    <li>Active learning guided by anomaly detection for experiment planning: 58% fewer labels and a 19% better regression model. Published at IEEE GLOBECOM.</li>
+    <li>Uncertainty scores (total, data, knowledge) with Bayesian ensembles of decision trees and anomaly detection methods.</li>
+  </ul>
+</div>
+<div class="item">
+  <div class="row"><span><b>Bank Orenburg</b> &middot; <span class="role">Data Scientist, IT Department</span></span><span class="date">Jun 2019 &ndash; Jul 2020</span></div>
+  <ul>
+    <li>Forecast daily ATM cash demand with exponential smoothing, ARIMA, neural networks and SSA; a dynamic-programming cash management model raised profitability by 30% over the classical model.</li>
+  </ul>
+</div>
+
+<h2>Publications</h2>
+<ul class="pubs">
+  <li><b>Nigmatulin, G.</b>, Mohl, V., Frey, S., Li, K., Marti-Shahandeh, A., Cucuringu, M., Calinescu, A., Foerster, J., Zohren, S. (2026). LOB-Impact Benchmark: Emergent Market Impact in Generative Limit Order Book Models. <i>ICAIF 2026</i>. <span class="tag">Oral.</span> <a href="https://arxiv.org/abs/2610.27100">arXiv:2610.27100</a></li>
+  <li>Mohl, V.*, Bismuth, A.*, Marti-Shahandeh, A., <b>Nigmatulin, G.</b>, Li, K., Zohren, S., Foerster, J., Cucuringu, M., Calinescu, A. (2026). Understanding the Inner Workings of a State-Space Foundation Model for Limit Order Books. <i>ICAIF 2026</i>. <a href="https://arxiv.org/abs/2610.28753">arXiv:2610.28753</a> <span class="note">(*equal contribution)</span></li>
+  <li><b>Nigmatulin, G.</b>, et al. (2026). Neural Scaling Laws for Order Flow Generation. Submitted to <i>NeurIPS 2026</i>.</li>
+  <li>Mohl, V., Frey, S., Leyland, R., Li, K., <b>Nigmatulin, G.</b>, Cucuringu, M., Zohren, S., Foerster, J., Calinescu, A. (2025). JaxMARL-HFT: GPU-Accelerated Large-Scale Multi-Agent Reinforcement Learning for High-Frequency Trading. <i>ICAIF 2025</i>, pp. 18&ndash;26. <span class="tag">Honourable Mention.</span> <a href="https://arxiv.org/abs/2511.02136">arXiv:2511.02136</a></li>
+  <li>Volkova, E., Pavlov, K., Beliaev, K., Perchik, A., Lychagov, V., Nikolaev, E., Ayuev, A., <b>Nigmatulin, G.</b>, Lee, W., Lee, H., Kim, Y. (2025). Electronic Device and Method for Determining a Body Core Temperature. US Patent Application US20250352075A1, Samsung Electronics.</li>
+  <li><b>Nigmatulin, G.</b>, Pavlov, K., Zaytsev, A. (2023). Anomaly Detection-Aided Active Learning. <i>IEEE GLOBECOM 2023</i>, pp. 1616&ndash;1619.</li>
+  <li>Pavlov, K., Perchik, A., Tsepulin, V., Megre, G., Nikolaev, E., Volkova, E., <b>Nigmatulin, G.</b>, Lee, H.J., Lee, W.S., Kim, Y.H. (2023). Sweat Loss Estimation Algorithm for Smartwatches. <i>IEEE Access</i>, 11, 23926&ndash;23934.</li>
+  <li><b>Nigmatulin, G.</b>, Chaganova, O. (2021). Research of an Optimization Model for Servicing a Network of ATMs and Information Payment Terminals. <i>Communications in Computer and Information Science</i>, Springer.</li>
+  <li>Bolodurina, I., <b>Nigmatulin, G.</b>, Parfenov, D. (2020). Intersection of Triangles in Space Based on Cutting Off Segment. <i>Communications in Computer and Information Science</i>, Springer.</li>
+</ul>
+
+<h2>Teaching</h2>
+<div class="item">
+  <div class="row"><span><b>Deep Learning for Time Series Forecasting</b> &middot; Intelligent Earth CDT, University of Oxford</span><span class="date">Jan 2025, Jan 2026</span></div>
+  <p class="p">Lab session in the Time Series Analysis and Signal Processing course: DeepAR and ConvTrans in PyTorch.</p>
+</div>
+<div class="item">
+  <div class="row"><span><b>Volatility Forecasting with Economic Networks</b> &middot; The Oxford Summer School in Economic Networks</span><span class="date">Jun 2026</span></div>
+  <p class="p">Tutorial with Yaxuan Kong: correlation networks of futures and a graph convolutional network for volatility.</p>
+</div>
+
+<h2>Leadership and Service</h2>
+<div class="item">
+  <div class="row"><span><b>BOLD Launch Festival</b>, Rhodes House, Oxford</span><span class="date">Aug 2026</span></div>
+  <ul>
+    <li>Co-chair of the workshop <i>Collective Intelligence (incl. Prediction Markets) and the Optimal Co-Scientist</i>, with Yuhe Gao.</li>
+    <li>Co-organiser of the workshop <i>Foundation Models and Open-Source in Finance</i> and moderator of its panel with Iain Dunning (Head of AI, Hudson River Trading), Stefan Zohren and Kang Li.</li>
+  </ul>
+</div>
+<div class="item">
+  <div class="row"><span><b>ICAIF 2025</b>, Singapore: helped organise the Workshop on Rethinking Financial Time-Series</span><span class="date">Nov 2025</span></div>
+</div>
+<div class="item">
+  <div class="row"><span><b>Reviewer</b>: ICLR 2027, ICAIF 2026</span><span class="date"></span></div>
+</div>
+<div class="item">
+  <div class="row"><span><b>Head of the Student Council</b>, Orenburg State University</span><span class="date">2018 &ndash; 2020</span></div>
+</div>
+
+<h2>Skills</h2>
+<p class="p">Python, JAX, PyTorch, C++ &middot; English (C1), Russian (native)</p>
+
+</body>
+</html>
