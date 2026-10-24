@@ -75,20 +75,5 @@ redirect_from:
 </ul>
 </details>
 
-## Professional skills
-
-Languages: English - Advanced C1, Russian – Native <br>
-Programming: Languages: C++ / C#, Python, R, Matlab, Matcad, Octave, SQL <br>
-DevOps: Linux, Bash, SSH, Git, DVC, Hadoop, Docker, AWS, Cookiecutter-data-science, WandB, MLFlow <br>
-
-## Quantitative Research toolkit
-
-ML packages: Scikit-learn, SciPy, LightGBM, Catboost, SHAP, Prophet, Numpy, Pandas, Matplotlib, Seaborn <br>
-Deep Learning: TensorFlow, PyTorch <br>
-Finance: Yfinance, Statsmodels, Tsfresh, FinancePy, Quantpy, Pyfolio, Backtrader, Quantstats, Interactive Brocker <br>
-Area of specialization: Machine learning, Deep Learning, Causal and Bayesian methods, Uncertainty quantification,
-Optimal control, System analysis, Quantitative Finance, Strategies, Predictive Modelling, Portfolio optimization. <br>
-<br>
-
 ## Pdf version of Curriculum Vitae
 [https://george-nigmatulin.github.io/files/George_Nigmatulin_CV.pdf](https://george-nigmatulin.github.io/files/George_Nigmatulin_CV.pdf)
