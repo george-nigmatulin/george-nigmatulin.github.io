@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Curriculum Vitae"
-    url: cv/
-
   - title: "Publications"
     url: publications/
 
-  - title: "Extracurricular activities"
-    url: extracurricular_activities/
+  - title: "Teaching"
+    url: teaching/
 
   - title: "Leadership"
-    url: leadership/    
+    url: leadership/
+
+  - title: "Curriculum Vitae"
+    url: cv/

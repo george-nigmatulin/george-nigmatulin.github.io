@@ -4,6 +4,31 @@ title: "Leadership"
 permalink: leadership/
 author_profile: true
 ---
+
+## Workshops and panels
+
+**BOLD Launch Festival** · Rhodes House, Oxford · 4 August 2026
+
+The launch of [BOLD](https://bold-lab.ai), the British Open-ended Learning and Discovery lab: a new UK AI research lab led from Oxford with UCL and Imperial College London. More than 350 researchers, innovators and policymakers took part.
+
+* Co-chair of the workshop *Collective Intelligence (incl. Prediction Markets) and the Optimal Co-Scientist*, with Yuhe Gao.
+* Co-organiser of the workshop *Foundation Models and Open-Source in Finance*, and moderator of its panel with Iain Dunning (Head of AI, Hudson River Trading), Stefan Zohren (University of Oxford) and Kang Li (BOLD).
+
+**ICAIF 2025** · Singapore · November 2025
+
+* Helped organise the *Workshop on Rethinking Financial Time-Series*, led by Yoontae Hwang.
+
+## Reviewing
+
+* ICLR 2027
+* ICAIF 2026
+
+## Earlier
+
+* Head of the Student Council, Orenburg State University (2018–2020).
+
+<!-- Previous Leadership page (until Oct 2026):
+
 * Work at international leadership forums: "Japan-Russia youth summit" (Tokyo, Japan), “AEGEE, European Students' Forum (Estonia, Latvia, Belgium, Netherlands, Turkey), “Eurasia Global” (Orenburg, Russia). Elaboration of Data Science applications to the Sustainable Development Goals (SDG).
 * Head of the Student Council (Jan 2018 – Apr 2020). Management, resources and task planning, results presentation.
 
@@ -24,3 +49,4 @@ author_profile: true
 * First Eurasian Digital conference (September 2018, Orenburg, Technical support)
 * Certificate of inclusive volunteering "Abilimpix" (May 2018, Orenburg, Training course of helping people with disabilities)
 * "Children – our future" (2016 - 2022 Orenburg, Help for orphanage).
+-->
