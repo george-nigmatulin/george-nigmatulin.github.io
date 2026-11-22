@@ -18,3 +18,5 @@ Past
 * 17 Nov 2026. QuantMinds International 2026, London. LOB-Impact Benchmark: Emergent Market Impact in Generative Limit Order Book Models (PhD poster). [[Paper]](https://arxiv.org/abs/2610.27100) [[Project page]](https://george-nigmatulin.github.io/lob_impact/) [[Poster programme]](https://informaconnect.com/quantminds-international/phd-poster-programme/)
 
 * 10 Nov 2026. CFM-Imperial Workshop on Quantitative Finance hosted by Deutsche Bank, London. LOB-Impact Benchmark: Emergent Market Impact in Generative Limit Order Book Models (poster). [[Paper]](https://arxiv.org/abs/2610.27100) [[Project page]](https://george-nigmatulin.github.io/lob_impact/) [[Workshop]](https://sites.google.com/view/cfm-imperial-db/home)
+
+* 26 Oct 2026. BOLD lab internal seminar, Oxford. Generative AI and Reinforcement Learning for Market Simulation and Trading (talk). [[Project page]](https://george-nigmatulin.github.io/lob_impact/)
