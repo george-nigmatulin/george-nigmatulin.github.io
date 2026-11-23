@@ -9,6 +9,8 @@ Upcoming
 
 * 26 Nov 2026. STAC research group. LOB-Impact Benchmark: Emergent Market Impact in Generative Limit Order Book Models (seminar talk). [[Paper]](https://arxiv.org/abs/2610.27100) [[Project page]](https://george-nigmatulin.github.io/lob_impact/)
 
+* 21 Jan 2027, 16:00. [Mathematical and Computational Finance Seminar](https://www.maths.ox.ac.uk/events/list/3144), Mathematical Institute, Oxford. LOB-Impact Benchmark: Emergent Market Impact in Generative Limit Order Book Models (invited seminar talk). [[Paper]](https://arxiv.org/abs/2610.27100) [[Project page]](https://george-nigmatulin.github.io/lob_impact/)
+
 Past
 
 2026
